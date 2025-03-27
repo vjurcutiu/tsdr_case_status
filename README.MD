@@ -30,10 +30,10 @@ This Python script demonstrates a proof-of-concept (PoC) for interacting with th
 
   The script uses the following Python libraries:
 
-- `requests` (for making HTTP requests)
-- `pandas` (for data manipulation and Excel export)
-- `openpyxl` (for Excel file creation)
-- `xml.etree.ElementTree` (standard library, no installation required)
+   - `requests` (for making HTTP requests)
+   - `pandas` (for data manipulation and Excel export)
+   - `openpyxl` (for Excel file creation)
+   - `xml.etree.ElementTree` (standard library, no installation required)
 
   Install the required dependencies with pip:
 
