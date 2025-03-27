@@ -37,9 +37,9 @@ This Python script demonstrates a proof-of-concept (PoC) for interacting with th
 
   Install the required dependencies with pip:
 
-  ```bash  
+```bash  
   pip install requests pandas openpyxl  
-  ```
+```
 
 ## Configuration
 
@@ -47,9 +47,9 @@ This Python script demonstrates a proof-of-concept (PoC) for interacting with th
 
   Open the script file (`tsdr_case_status.py`) and replace the placeholder (`"YOUR_API_KEY"`) with your actual USPTO TSDR API key:
 
-  ```python  
+```python  
   API_KEY = "YOUR_API_KEY"  
-  ```
+```
 
 2. **Running the Script**
 
