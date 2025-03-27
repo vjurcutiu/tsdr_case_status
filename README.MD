@@ -23,9 +23,6 @@ This Python script demonstrates a proof-of-concept (PoC) for interacting with th
 
   ```bash
   python3 -m venv venv 
-  ```
-
-  ```bash
   source venv/bin/activate # On Windows, use: venv\Scripts\activate
   ```
 
