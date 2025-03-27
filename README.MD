@@ -21,9 +21,9 @@ This Python script demonstrates a proof-of-concept (PoC) for interacting with th
 
 2. **Set Up a Virtual Environment (Optional but Recommended)**
 
-  ```bash  
-  python3 -m venv venv  
-  source venv/bin/activate # On Windows, use: venv/Scripts/activate  
+  ```bash
+  python3 -m venv venv 
+  source venv/bin/activate # On Windows, use: venv\Scripts\activate
   ```
 
 3. **Install Required Dependencies**
